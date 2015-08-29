@@ -1,14 +1,15 @@
 {
-  "name": "cort",
+  "name": "thecliff",
   "version": "1.0.0",
-  "description": "cort",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "The Cliff",
+  "repository": {
+    "url": "https://github.com/CortCannon/thecliff.git"
   },
-  "author": "",
-  "license": "ISC",
+  "main": "index.html",
+  "author": "Cortlen James Cannon",
+  "license": "MIT",
   "devDependencies": {
+    "browser-sync": "^2.8.2",
     "gulp": "^3.9.0",
     "gulp-ftp": "^1.0.4",
     "gulp-util": "^3.0.6",
