@@ -1,0 +1,17 @@
+{
+  "name": "cort",
+  "version": "1.0.0",
+  "description": "cort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-ftp": "^1.0.4",
+    "gulp-util": "^3.0.6",
+    "vinyl-ftp": "^0.4.4"
+  }
+}
